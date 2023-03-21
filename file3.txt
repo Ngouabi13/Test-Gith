@@ -1,2 +1,2 @@
 fichier 3
-print("Python is good")
+39+56=95
